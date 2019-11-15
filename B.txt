@@ -2,4 +2,4 @@ this is b.txt
 i am changing this file
 adding a line for conflict from local
 adding a line for conflict from remote
-
+git is light weight
