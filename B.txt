@@ -4,4 +4,3 @@ adding a line for conflict from local
 adding a line for conflict from remote
 git is fast
 git is light weight
-
